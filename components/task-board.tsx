@@ -229,7 +229,7 @@ export default function TaskBoard() {
           <div className="border w-full p-3 rounded-xl border-neutral-200 shadow-sm bg-white/90 backdrop-blur-md">
             <div className="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-6 w-full">
               <div>
-                <h2 className="text-3xl sm:text-4xl font-bold font-playfair bg-gradient-to-r from-royalBlue to-indigo-500 bg-clip-text text-transparent leading-tighter">
+                <h2 className="text-3xl sm:text-4xl font-extrabold bg-gradient-to-r from-royalBlue to-indigo-500 bg-clip-text text-transparent leading-tighter">
                   Work Dashboard
                 </h2>
                 <p className="text-neutral-500 text-sm sm:text-sm italics tracking-tighter ">
