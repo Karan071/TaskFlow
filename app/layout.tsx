@@ -14,7 +14,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Task Board",
+  title: "TaskFlow",
   description:
     "Task is a simple task board application built with Next.js and Tailwind CSS.",
 };
